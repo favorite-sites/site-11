@@ -2,13 +2,17 @@
 
 // IT 리서치
 
-https://www.youtube.com/@GoogleDevelopers // 구글 IO
+https://www.youtube.com/@GoogleDevelopers 
+
+// 구글 IO
 
 https://research.google
 
 https://github.com/google-research/google-research
 
-https://www.youtube.com/@MicrosoftTechCommunity // 마이크로 소프트 테크 커뮤니티
+https://www.youtube.com/@MicrosoftTechCommunity 
+
+// 마이크로 소프트 테크 커뮤니티
 
 https://microsoft.com/en-us/research
 
@@ -37,7 +41,6 @@ https://openreview.net
 https://www.paperdigest.org/data/neurips-2023-full.html
 
 https://www.paperdigest.org/2023/10/nips-2023-highlights/
-
 
 // 네이처지
 
@@ -72,3 +75,4 @@ https://www.ncbi.nlm.nih.gov/
 // Machine learning and AI for medicine
 
 https://www.vanderschaar-lab.com/
+
